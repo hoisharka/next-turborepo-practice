@@ -1,0 +1,4 @@
+* next-turborepo-practice
+
+** 프로젝트 세팅
+   - [[../docs/Next와_Turborepo를_사용하는_프로젝트_생성.org][Next와_Turborepo를_사용하는_프로젝트_생성.org]]
